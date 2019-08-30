@@ -3,7 +3,7 @@
 This jupyter notebook implements an algorithm to count possible covers of `m x n` rectangle with `1 x 2` dominoes.
 
 # Useful links
-
+```
 https://en.wikipedia.org/wiki/Domino_tiling
 https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_FKT
 https://en.wikipedia.org/wiki/Packing_problems
@@ -30,3 +30,4 @@ https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html
 https://ru.coursera.org/lecture/sportivnoe-programmirovanie/4-5-zadacha-parkiet-dinamika-po-profiliu-k3EYK
 https://habr.com/ru/post/191498/
 https://archive.lksh.ru/2011/july/B/files/dp-profile.pdf
+```
