@@ -1,6 +1,10 @@
 # Domino tiling problem
 
-This jupyter notebook implements an algorithm to count possible covers of `m x n` rectangle with `1 x 2` dominoes.
+This jupyter notebooks implement two algorithms for counting possible covers of `m x n` rectangle with `1 x 2` dominoes.
+
+[This notebook](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling.ipynb) contains an implementation based on Temperley, Fisher, Kasteleyn formula.
+
+And [this notebook](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.ipynb) contains a detailed explanation of a recursive algoritm aka dynamic programming approach. There is a [PDF](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.pdf) version for convenience.
 
 # Useful links
 ```
@@ -22,7 +26,6 @@ https://www.quora.com/In-how-many-ways-can-a-MxN-rectangle-be-tiled-using-1x1-an
 http://www.math.cmu.edu/~bwsulliv/domino-tilings.pdf
 https://math.stackexchange.com/questions/664113/count-the-ways-to-fill-a-4-times-n-board-with-dominoes
 http://algo.inria.fr/seminars/sem01-02/strehl.pdf
-https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8E
 https://cp-algorithms.com/dynamic_programming/profile-dynamics.html
 https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8E
 http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html
