@@ -4,7 +4,7 @@ This jupyter notebooks implement two algorithms for counting possible covers of 
 
 [This notebook](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling.ipynb) contains an implementation based on Temperley, Fisher, Kasteleyn formula :rabbit:.
 
-And [this notebook](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.ipynb) contains a detailed explanation of a recursive algoritm aka dynamic programming approach :arrows_counterclockwise:. There is a [PDF](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.pdf) version for convenience.
+And [this notebook](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.ipynb) contains a detailed explanation of a recursive algorithm aka dynamic programming approach :arrows_counterclockwise:. There is a [PDF](https://github.com/ehpc/domino-tiling/blob/master/domino-tiling-recursive.pdf) version for convenience.
 
 # Useful links
 ```
